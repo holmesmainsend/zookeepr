@@ -189,6 +189,15 @@
         "hungry"
       ],
       "id": "19"
+    },
+    {
+      "name": "monkey",
+      "species": "monkeyyy",
+      "diet": "folivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "20"
     }
   ]
 }
